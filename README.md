@@ -1,1 +1,2 @@
 # SparkyBot (Meu assistente virtual)
+Sparky é um assistente virtual programado em Python, desenvolvido para facilitar a interação com o seu computador através de comandos de voz. Utilizando bibliotecas como `speech_recognition`, `pyautogui`, `webbrowser` e `pyttsx3`, Sparky permite executar diversas tarefas de maneira eficiente e intuitiva. Com ele, é possível abrir jogos, reproduzir músicas e obter respostas para diversas perguntas,através da API da Gemini, que está em seu codigo, proporcionando uma experiência mais prática e integrada no uso do PC.
